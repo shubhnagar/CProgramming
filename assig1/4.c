@@ -16,5 +16,5 @@ int main(){
 	side= sqrt((x1-x2)*(x1-x2) + (y1-y2)*(y1-y2));
 	printf("The area of inner circle is:%f\n", (sqrt(3) * side)/6);
 	return 0;
-	// we didn't check if the cordinates form triangle please include that check also
+	// we didn't check if the cordinates form triangle are distinct please include that check also
 }
